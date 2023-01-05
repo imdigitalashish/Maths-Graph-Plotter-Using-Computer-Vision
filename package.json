@@ -1,0 +1,23 @@
+{
+  "name": "mathsgraphplotterusingcomputervision",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imdigitalashish/Maths-Graph-Plotter-Using-Computer-Vision.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/imdigitalashish/Maths-Graph-Plotter-Using-Computer-Vision/issues"
+  },
+  "homepage": "https://github.com/imdigitalashish/Maths-Graph-Plotter-Using-Computer-Vision#readme",
+  "dependencies": {
+    "parcel": "^2.8.2"
+  }
+}
