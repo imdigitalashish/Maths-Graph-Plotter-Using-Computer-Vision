@@ -1,0 +1,1 @@
+# Nothing just trying to replicate one project saw on linkedin which converts your real time math functions to graph !
